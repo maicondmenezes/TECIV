@@ -116,6 +116,7 @@ Existe também o ruído
 
 * _rand(t)_ é uma função matemática que representa um sinal aleatório
 * Temos ruído de amplitude e ruído de fase.
+
 > **Tenha em Mente**
 >
 >_Um sinal de onda senoidal usado em eletrônica é sempre uma aproximação da função matemática **seno**. Seus limites são descritos por alterações distorcidas e termos de ruído.
