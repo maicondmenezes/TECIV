@@ -187,3 +187,27 @@ Page: 12
 Page: 13
 
 ---
+
+## Fatores de Escala
+
+*Tabela 2.1 - Fatores de escala usados em eletrônicos*
+
+Prefixo | Fator
+:------ | :------:
+k (kilo)| 10<sup>3</sup>
+M (Mega)| 10<sup>6</sup>
+G (Giga)| 10<sup>9</sup>
+T (Tera)| 10<sup>12</sup>
+
+Prefixo  | Fator
+:------  | :------:
+m (milli)| 10<sup>-3</sup>
+m (micro)| 10<sup>-6</sup>
+n (nano) | 10<sup>-9</sup>
+p (pico) | 10<sup>-12</sup>
+f (femto)| 10<sup>-15</sup>
+a (atto) | 10<sup>-18</sup>
+
+Page :14
+
+---
