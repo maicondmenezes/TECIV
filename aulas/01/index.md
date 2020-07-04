@@ -31,7 +31,13 @@ Essa tendência de crescimento foi batizada de Lei de Moore, que prevê um aumen
 
 ## Uma história engraçada
 
-*O Homem que tinha 100 carros*
+### _O Homem que tinha 100 carros_
+
+Um homem era tão rico que possuía 100 carros, um para cada momento da sua vida, com três motoristas por carro disponíveis 24 horas por dia. O trabalho dos motoristas incluía estender um tapete vermelho nos trajetos curtos de um carro para o outro e deixar cada carro disponível a cada momento do dia ou da noite. Um belo dia, a esposa do homem rico deu à luz uma linda criança. Isso trouxe muita felicidade ao homem, à sua esposa e aos 300 motoristas dos 100 carros.
+
+Dois anos mais tarde, à medida que se aproximava o nascimento do segundo filho, era o momento de decidir sobre o presente de nascimento e o homem rico já havia pensado em um pequeno carro com rodas douradas. Ele perguntou à sua esposa: _“O que você acha?”_. A senhora respondeu de pronto: _“Eu preferia um par de sapatos.”_ _“O quê?”_ exclamou o homem, _“Tenho 100 carros e milhas de tapete vermelho! Meu filho não precisa andar! Sapatos são para os pobres que precisam andar.”_
+
+![Figura-O](img\fig-O.png)
 
 ---
 
